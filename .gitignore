@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Data
+/data/
+/data/*
+*.tar.gz
+*.tgz
+*.zip
+*.npz
+
+# PyTorch
+*.pt
+*.pth
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Outputs
+outputs/
+clip_outputs/
+gan_outputs/
+vae_outputs/
+
+# Sensitive
+.secret
+
+# Misc
+*.ckpt
