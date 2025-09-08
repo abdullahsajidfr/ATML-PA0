@@ -7,10 +7,6 @@ env/
 venv/
 ENV/
 
-# Jupyter
-.ipynb_checkpoints
-*.ipynb
-
 # Data
 /data/
 /data/*
